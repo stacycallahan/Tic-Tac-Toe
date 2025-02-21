@@ -11,8 +11,9 @@ To begin, players have the opportunity to choose their preferred symbol: X or O.
 - If the grid is filled with neither player marking 3 of their symbol in a row, the game ends in a tie
 
 ## How to Run the Program
-You will need the ability to run Python.
-1. Clone the repository onto your machine: git clone 
-2. Move into the Tic Tac Toe directory: 
-3. Run the gameplay.py file to play the game: 
-4. To stop the program...
+1. Make sure you have Python installed: https://www.python.org/downloads/
+2. Open Git Bash
+3. Clone the repository onto your machine: git clone https://github.com/stacycallahan/Tic-Tac-Toe.git
+4. Move into the Tic Tac Toe directory: cd Tic-Tac-Toe
+5. Run the gameplay.py file to play the game: python gameplay.py
+6. To stop the script, you may use CTRL + C
